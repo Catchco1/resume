@@ -9,8 +9,7 @@ keywords:
   - 'cyber'
   - 'mysql'
   - 'linux'
-author:
-- Connor Gephart
+author: 'Connor Gephart'
 subject: 'Connor Gephart's Resume'
 ---
 
