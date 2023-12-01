@@ -9,8 +9,10 @@ keywords:
   - 'cyber'
   - 'mysql'
   - 'linux'
-author: 'Connor Gephart'
-subject: 'Connor Gephart's Resume'
+author: 
+  - 'Connor Gephart'
+subject: 
+  - 'Connor Gephart's Resume'
 ---
 
 # Connor Gephart
