@@ -3,7 +3,7 @@ title: 'resume'
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
   - 'data'
-  - 'science
+  - 'science'
   - 'devops'
   - 'cybersecurity'
   - 'cyber'
